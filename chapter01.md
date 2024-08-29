@@ -116,7 +116,7 @@ Indicadores de éxito: Sabremos que hemos tenido éxito cuando observamos una me
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="./assets/1.2.2.4LeanUXCanvas/LeanUXCanvas.jpg" width="1000"/>|
+<img src="./assets/1.2.2.4LeanUXCanvas/LeanUXCanvas.jpg" width="1000"/>
 
 ## 1.3. Segmentos objetivo
 
