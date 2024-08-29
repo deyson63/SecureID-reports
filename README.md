@@ -20,7 +20,8 @@
 # Project Report Collaboration Insights
 
 **Project Report**
-![](./assets/ProjectReportCollaborationInsights/project_report_github.png)
+
+![](./assets/ProjectReportCollaborationInsights/ProjectReportCollaborationInsights.png)
 
 Link: https://github.com/IDBlock-WX83/SecureID-reports
 
