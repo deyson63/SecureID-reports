@@ -15,7 +15,11 @@ En IDBlock, nuestra misión es fortalecer a las comunidades rurales mediante tec
 Ser la marca líder en soluciones de identidad digital basadas en blockchain para comunidades rurales a nivel nacional. Aspiramos a crear un modelo sostenible y replicable que transforme la accesibilidad a servicios esenciales, promoviendo el desarrollo integral y sostenible de las comunidades más vulnerables.
 
 ### 1.1.2. Perfiles de integrantes del equipo
----
+| Aldo Francisco Pastrana León |  |
+|----------|----------|
+|Me llamo Aldo Francisco Pastrana León de la carrera de Ingeniería de Software y actualmente me encuentro en el octavo ciclo de mi carrera. Soy de Lima, tengo 22 años y me gustan las matemáticas. Además, mis pasatiempos son ver series, programar y videojuegos. Elegí mi carrera debido a que gusta la creación de los diversos programas y aplicaciones que existen. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración de este proyecto cumpliendo con mis responsabilidades.| <img src="./assets/1.1.2.PerfilesDeIntegrantes/AldoPastrana.png" width="1300"/>|
+|||
+
 ## 1.2. Solution Profile
 ---
 ### 1.2.1 Antecedentes y problemática
