@@ -4,7 +4,7 @@
 ---
 ### 1.1.1. Descripción de la Startup
 
-IDBlock es una innovadora startup tecnológico que utiliza la blockchain para mejorar el acceso a los servicios esenciales en las áreas rurales de la sierra del Perú. Nuestro enfoque se centra en brindar a los amantes de las plantas una manera fácil y efectiva de cuidar y monitorear sus vegetales y flores, incluso en entornos urbanos y con agendas ocupadas. SecureID es nuestra solución insignia, una plataforma web equipada con tecnología de vanguardia que implementa una blockchain privada para crear y gestionar identificaciones digitales. Dicha identificación permite a los residentes de zonas remotas acceder a servicios esenciales como educación, salud pública y asistencia social, superando las barreras de la falta de documentación convencional y mejorando la inclusión social.
+IDBlock es una innovadora startup tecnológico que utiliza tecnología blockchain para mejorar el acceso a los servicios esenciales en las áreas rurales de la sierra del Perú. SecureID es nuestra solución insignia, una plataforma web equipada con tecnología de vanguardia que implementa una blockchain privada para crear y gestionar identificaciones digitales. Dicha identificación permite a los residentes de zonas remotas acceder a servicios esenciales como educación, salud pública y asistencia social, superando las barreras de la falta de documentación convencional y mejorando la inclusión social.
 
 **Misión:**
 
