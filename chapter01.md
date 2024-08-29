@@ -20,7 +20,7 @@ El problema de la falta de identificación formal en las áreas rurales de la si
 
 **Where (Dónde)**
 
-La problemática de la falta de identificación formal se concentra principalmente en las zonas rurales de la sierra del Perú, donde las infraestructuras básicas y los servicios gubernamentales son limitados o inaccesibles. Estas áreas se caracterizan por su difícil geografía, lo que dificulta aún más la llegada de asistencia y la implementación de programas de identificación convencionales. Además, en algunas comunidades rurales, existe resistencia cultural al cambio y a la adopción de nuevas tecnologías, lo que puede representar un obstáculo adicional para la introducción de soluciones digitales. Según Unidad Latina (2024), esta resistencia es un factor crucial a considerar al diseñar e implementar tecnologías que requieran aceptación comunitaria y adaptación cultural.
+La problemática de la falta de identificación formal se concentra principalmente en las zonas rurales de la sierra del Perú, donde las infraestructuras básicas y los servicios esenciales son limitados o inaccesibles. Estas áreas se caracterizan por su difícil geografía, lo que dificulta aún más la llegada de asistencia y la implementación de programas de identificación convencionales. Además, en algunas comunidades rurales, existe resistencia cultural al cambio y a la adopción de nuevas tecnologías, lo que puede representar un obstáculo adicional para la introducción de soluciones digitales. Según Unidad Latina (2024), esta resistencia es un factor crucial a considerar al diseñar e implementar tecnologías que requieran aceptación comunitaria y adaptación cultural.
 
 **Who (Quién)**
 
@@ -30,7 +30,7 @@ Para el primer segmento, nos dirigimos a los residentes locales que viven en ár
 
 Para el segundo segmento, nos dirigimos a las autoridades locales para implementar y gestionar el sistema de identificación digital. Este segmento incluye funcionarios y administradores de programas de asistencia social, quienes se benefician de un sistema más eficiente y transparente para verificar la identidad de los residentes y distribuir los recursos adecuadamente.
 
-Al enfocarnos en estos segmentos, buscamos crear un ecosistema digital que no solo mejore el acceso a servicios esenciales para los residentes de estas áreas, sino que también proporcione a las autoridades locales las herramientas necesarias para gestionar eficazmente la identificación y los recursos. Esta integración permite una mejora sustancial en la calidad de vida de los individuos y optimiza la distribución de ayuda y servicios esenciales.
+Al enfocarnos en estos segmentos, buscamos crear un ecosistema digital que no solo mejore el acceso a servicios esenciales para los residentes de estas áreas, sino que también proporcione a las autoridades locales las herramientas necesarias para gestionar eficazmente la identificación y los recursos. Esta integración permite una mejora sustancial en la calidad de vida de las personas y optimiza la distribución de ayuda y servicios esenciales.
 
 **Why (Por qué)**
 
@@ -38,7 +38,7 @@ La implementación de una solución de identificación digital en las zonas rura
 
 **How (Cómo)**
 
-Para abordar la problemática de la falta de identificación formal en las áreas rurales de la sierra del Perú, desarrollaremos una plataforma de blockchain privada llamada SecureID. Esta plataforma funcionará incluso con conectividad limitada, utilizando tecnología de almacenamiento y sincronización local que permite operar offline y sincronizar datos cuando la conexión esté disponible. SecureID almacenará de manera segura los datos de identificación personal en una red distribuida, asegurando su inmutabilidad y protección contra alteraciones y fraudes. Además, implementaremos interfaces de usuario sencillas y accesibles para que los residentes locales puedan gestionar fácilmente su identificación digital, incluso sin conocimientos técnicos avanzados. También colaboraremos con las autoridades locales para asegurar la integración del sistema con los servicios existentes, facilitando así un acceso más equitativo a servicios esenciales como educación y salud. 
+Para abordar la problemática de la falta de identificación formal en las áreas rurales de la sierra del Perú, desarrollaremos una plataforma de blockchain privada llamada SecureID. Esta plataforma funcionará incluso con conectividad limitada, utilizando tecnología de almacenamiento y sincronización local que permite operar offline. SecureID almacenará de manera segura los datos de identificación personal en una red distribuida, asegurando su inmutabilidad y protección de datos. Además, implementaremos interfaces de usuario sencillas y accesibles para que los residentes locales puedan gestionar fácilmente su identificación digital, incluso sin conocimientos técnicos avanzados. También colaboraremos con las autoridades locales para asegurar la integración del sistema con los servicios existentes, facilitando así un acceso más equitativo a servicios esenciales como educación y salud. 
 
 **How Much (Cuánto)**
 
@@ -66,13 +66,13 @@ Indicadores de éxito: Sabremos que hemos tenido éxito cuando observamos una me
 
 * Empoderamiento a través del control de datos personales: Los usuarios tendrán control sobre sus datos personales a través de una plataforma de blockchain, lo que aumenta su confianza y seguridad en la gestión de su identidad digital.
 
-* Mayor inclusión y equidad social: La plataforma facilitará una mayor inclusión de los residentes de zonas rurales en programas gubernamentales y servicios que anteriormente eran inaccesibles debido a la falta de identificación formal.
+* Mayor inclusión y equidad social: La plataforma facilitará una mayor inclusión de los residentes de zonas rurales en programas del estado y servicios que anteriormente eran inaccesibles debido a la falta de identificación formal.
 
 **Business Outcome:**
 
-* Reducción de fraudes y mejora en la eficiencia administrativa: La implementación de blockchain proporcionará un sistema más seguro y transparente para las autoridades locales, reduciendo los casos de fraude y los errores administrativos.
+* Mejora en la eficiencia administrativa: La implementación de blockchain proporcionará un sistema seguro para las autoridades locales, reduciendo los errores administrativos.
 
-* Fortalecimiento de la relación entre gobierno y ciudadanos: Al mejorar la accesibilidad y la eficacia de los servicios gubernamentales, la plataforma incrementará la satisfacción y la confianza de los ciudadanos hacia las instituciones.
+* Fortalecimiento de la relación entre gobierno y ciudadanos: Al mejorar la accesibilidad y la eficacia de los servicios esenciales, la plataforma incrementará la satisfacción y la confianza de los ciudadanos hacia las instituciones.
 
 * Posicionamiento como líder en soluciones de identidad digital: El proyecto busca establecerse como referente en la implementación de soluciones de identidad digital basadas en blockchain para áreas con limitaciones tecnológicas.
 
@@ -92,9 +92,9 @@ Indicadores de éxito: Sabremos que hemos tenido éxito cuando observamos una me
 
 * Creemos que lograremos una mejora en el acceso a servicios esenciales (salud, educación, asistencia social) para los residentes de áreas rurales si implementamos un sistema de identificación digital basado en blockchain que permita la verificación de identidad segura y descentralizada.
 
-* Creemos que aumentaremos la confianza y el control sobre los datos personales de los residentes de áreas rurales si les ofrecemos una plataforma que les permita gestionar su identificación digital de manera autónoma y segura.
+* Creemos que aumentaremos la confianza y el control sobre los datos personales de los residentes de áreas rurales si les ofrecemos una plataforma que les permita gestionar su identificación digital de manera segura.
 
-* Creemos que mejoraremos la eficiencia administrativa y reduciremos el fraude en programas gubernamentales si integramos nuestra solución de identificación digital con los sistemas existentes de servicios públicos.
+* Creemos que mejoraremos la eficiencia administrativa en programas del estado si integramos nuestra solución de identificación digital con los sistemas existentes de servicios públicos.
 
 * Creemos que reduciremos los costos administrativos y de gestión de identidades para las autoridades locales si implementamos una solución de blockchain que automatice y asegure el proceso de verificación de identidades.
 
